@@ -1,2 +1,0 @@
-# Jareth
-Venta de Hamburguesas
